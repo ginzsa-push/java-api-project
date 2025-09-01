@@ -1,0 +1,5 @@
+com/sample/project/controller/ValidateController.class
+com/sample/project/service/ValidationService.class
+com/sample/project/model/ValidationResult.class
+com/sample/project/ApiApplication.class
+com/sample/project/model/DataPoint.class
